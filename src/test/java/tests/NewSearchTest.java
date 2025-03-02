@@ -1,4 +1,4 @@
 package tests;
 
-public class NewSearchTest {
+public class NewSearchTest extends TestBase {
 }
